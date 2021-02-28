@@ -51,7 +51,7 @@ h2 {
 
    }
 
-   h5 {
+   h6 {
     font-family:'Belleza-Regular', sans-serif; 
     font-size: 22px;
     font-weight: 200;
@@ -297,6 +297,7 @@ color: #7B7B80;
     font-family: 'Belleza-Regular';
     font-size: 14px;
     color:crimson;
+    margin-left:3%;
   }
 
   .classcomments3 {
@@ -308,6 +309,15 @@ color: #7B7B80;
     font-family: 'Belleza-Regular';
     font-size: 14px;
     color:crimson;
+  }
+
+  .paraedit {
+    align-content: left;
+    width: 30%;
+    font-family: 'Belleza-Regular';
+    font-size: 16px;
+    color: #23252C;
+
   }
 
 
